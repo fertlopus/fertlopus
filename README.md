@@ -5,7 +5,7 @@
 ## Machine Learning Engineer | Deep Learning | Math Geek | Software Engineer
 
 <p align="center">
-  <img src="" alt="Hi, I'm Marat 👋 I'm a 🚀 ML Engineer 🚀 I ❤️ AI ❤️">
+  <img src="https://github.com/fertlopus/fertlopus/raw/main/207z.gif" alt="Hi, I'm Marat 👋 I'm a 🚀 ML Engineer 🚀 I ❤️ AI ❤️">
 </p>
 
 I'm a highly skilled Machine Learning Engineer and Software Developer with a strong background in deep learning and machine learning, computer vision, audio preprocessing, natural language processing and Big Data. My passion for solving complex problems and my commitment to continuous learning have driven my success in various technological companies. As a math enthusiast and geek, I am always eager to apply my knowledge to real-world challenges and collaborate with cross-functional teams to achieve exceptional results.
