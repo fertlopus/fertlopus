@@ -23,5 +23,4 @@ I'm a professional Machine Learning Engineer with a strong background in compute
 ![statsmodels](https://img.shields.io/badge/-statsmodels-FAB00E?style=flat-square&logo=statsmodels&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fertlopus)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fertlopus&count_private=true)
+![Fertlopus's GitHub stats](https://github-readme-stats.vercel.app/api?username=fertlopus&count_private=true&show_icont=true&theme=dracula)
