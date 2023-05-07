@@ -24,4 +24,4 @@ I'm a professional Machine Learning Engineer with a strong background in compute
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 
 ![Fertlopus's GitHub stats](https://github-readme-stats.vercel.app/api?username=fertlopus&count_private=true&show_icont=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fertlopus&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fertlopus&langs_count=8&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
