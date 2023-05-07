@@ -1,15 +1,16 @@
-# Hi there, I'm <name>! 👋
-
-## Machine Learning Engineer | Computer Vision | Audio Preprocessing | Deep Learning | Math Geek
+# Hi there, I'm Marat! 🤖👋
 ![](https://komarev.com/ghpvc/?username=fertlopus)
-  
-I'm a professional Machine Learning Engineer with a strong background in computer vision, audio preprocessing, deep learning, and machine learning. I've had the pleasure to work with various technological companies, contributing my expertise to create innovative solutions. As a math enthusiast, I find joy in solving complex problems and continuously learning new techniques. My main stack includes Python, C, and C++, and I have experience with frameworks such as FastAPI, Django, PyTorch, TensorFlow, scipy, statsmodels, and Docker.
+## Machine Learning Engineer | Deep Learning | Math Geek | Software Engineer
+
+I'm a highly skilled Machine Learning Engineer and Software Developer with a strong background in deep learning and machine learning, computer vision, audio preprocessing, natural language processing and Big Data. My passion for solving complex problems and my commitment to continuous learning have driven my success in various technological companies. As a math enthusiast and geek, I am always eager to apply my knowledge to real-world challenges and collaborate with cross-functional teams to achieve exceptional results.
+
+Having worked with Python, C, and C++ as my main stack, I've gained experience in frameworks and languages such as FastAPI, Django, PyTorch, TensorFlow, scipy, statsmodels, Docker, Vanilla JavaScript, Scala and Swift. My combination of technical expertise, work experience, strong communication skills, and dedication to the success of the team make me an invaluable asset to any organization.
 
 ### 🌐 Connect with me:
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin-username/)](https://www.linkedin.com/in/your-linkedin-username/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/your-twitter-username)](https://twitter.com/your-twitter-username)
-[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@your-medium-username)](https://medium.com/@your-medium-username)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maratmovlamov/)](https://www.linkedin.com/in/maratmovlamov/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/pythonmaverick)](https://twitter.com/pythonmaverick)
+[![Email Badge](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maratmovlamov2017@gmail.com)](mailto:maratmovlamov2017@gmail.com)
 
 ### 🛠️ Technologies & Tools:
 
