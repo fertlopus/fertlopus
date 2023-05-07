@@ -1,7 +1,8 @@
 # Hi there, I'm <name>! 👋
 
 ## Machine Learning Engineer | Computer Vision | Audio Preprocessing | Deep Learning | Math Geek
-
+![](https://komarev.com/ghpvc/?username=fertlopus)
+  
 I'm a professional Machine Learning Engineer with a strong background in computer vision, audio preprocessing, deep learning, and machine learning. I've had the pleasure to work with various technological companies, contributing my expertise to create innovative solutions. As a math enthusiast, I find joy in solving complex problems and continuously learning new techniques. My main stack includes Python, C, and C++, and I have experience with frameworks such as FastAPI, Django, PyTorch, TensorFlow, scipy, statsmodels, and Docker.
 
 ### 🌐 Connect with me:
