@@ -16,7 +16,6 @@ Having worked with Python, C and C++ as my main stack, I've gained experience in
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maratmovlamov/)](https://www.linkedin.com/in/maratmovlamov/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/pythonmaverick)](https://twitter.com/pythonmaverick)
-[![Email Badge](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maratmovlamov2017@gmail.com)](mailto:maratmovlamov2017@gmail.com)
 
 ### 🛠️ Technologies & Tools:
 
